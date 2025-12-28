@@ -1,0 +1,22 @@
+# Godot editor cache
+.godot/
+
+# Godot 3.x import/export
+.import/
+.export/
+
+# Mono / C#
+.mono/
+data_*/
+
+# Builds / exports
+builds/
+bin/
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
