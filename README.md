@@ -26,8 +26,9 @@ This project was completed as the final for the course LMC 6500: Project Studio 
 - Lenox builds are currently unavailable  
 
 ## Team Members
-- [Kimbery Velez](https://www.linkedin.com/in/kmvelez/)  
-- [Rolando Tate](https://www.linkedin.com/in/rolandodtate/)  
+- [Jeremiah Timberlake](https://www.linkedin.com/in/jeremiahtimberlake/) - Programming & Music
+- [Kimbery Velez](https://www.linkedin.com/in/kmvelez/) - UI/UX Design
+- [Rolando Tate](https://www.linkedin.com/in/rolandodtate/) - Worldbuilding 
 
 ## References
 **Music and Narrative**
