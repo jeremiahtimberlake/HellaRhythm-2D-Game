@@ -1,5 +1,5 @@
 # HellaRhythm
-HellaRhythm pulls from the Greek myth of Orpheus and Eurydice, focusing on the first part of Orpheus’s journey into the underworld, where he charms the gatekeeper, Charon, into letting him cross the River Styx. The game replaces combat with rhythm as the primary system of progression, arguing that art, specifically music, can rival or surpass physical strength as a form of power, while revealing its limits when confronted with human doubt, desire, and time.
+HellaRhythm is a 2D rhythm game reimagining the myth of Orpheus through music-driven gameplay, exploring art as a form of persuasion, power, and human limitation. The game focuses on the first part of Orpheus’s journey where he charms the gatekeeper, Charon, into letting him cross the River Styx.
 
 ## At a Glance
 The player is tasked with “sightreading” a song by pressing the appropriate number key (1-9) at the right time to dissipate soul wisps spawning in its path and keep Charon’s charm bar high. If Charon’s charm level falls below a certain threshold, the player will fail the level.
